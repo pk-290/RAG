@@ -1,0 +1,11 @@
+setuptools
+google-generativeai
+python-dotenv
+langchain
+fastapi
+langchain_google_genai
+langchain-community
+uvicorn[standard]
+langchain-pinecone
+langchain-google-vertexai
+weaviate
